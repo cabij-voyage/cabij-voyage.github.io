@@ -33,7 +33,6 @@ jobs:
     - name: Build the site
       run: |
         sphinx-build site/ site/_build
-        cp CNAME site/_build
 
     # Push the book's HTML to github-pages
     - name: GitHub Pages action
