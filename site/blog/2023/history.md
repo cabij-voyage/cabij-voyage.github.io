@@ -45,7 +45,7 @@ Emily was told that Cabij should float, given a lick of paint, but we don't know
 
 ### Initial repairs
 Cabij was transported to a drive, where Cabij was stored upside down on top of a broken Nissan Micra, in between being worked on by the next-door parking space.
-What followed was a summer of enthusiastic repairs where paint was scraped off with a borrowed heatgun, old fibreglass tape removed and new stuck on with epoxy, soft pieces of wood scraped away and patched with new and foraged plywood, and paint and primer drunkenly applied n the wrong order.
+What followed was a summer of enthusiastic repairs where paint was scraped off with a borrowed heatgun, old fibreglass tape removed and new stuck on with epoxy, soft pieces of wood scraped away and patched with new and foraged plywood, and paint and primer drunkenly applied in the wrong order.
 
 ```{image} ../../images/cabij-shiny-2020.jpg
 :width: 50%
