@@ -9,5 +9,4 @@ This blog details the life and times of the good "ship" Cabij: the finest pirate
 :date: "%Y-%m-%d"
 :format: "{title} - {date}"
 :excerpts:
-:sort:
 ```

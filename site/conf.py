@@ -15,10 +15,16 @@ project = "Cabij Voyage"
 # basic build settings
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", "**.ipynb_checkpoints"]
 nitpicky = True
+keep_warnings = False
 
 # HTML theme (pydata sphinx theme)
 html_theme = "pydata_sphinx_theme"
 html_title = "Cabij Voyage"
+
+# -- MyST
+
+myst_enable_extensions = [
+]
 
 # -- ABlog ---------------------------------------------------
 
